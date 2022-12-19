@@ -1,20 +1,19 @@
 # QueenElizabeth
 Analysing the perceptions of Queen Elizabeth's death among twitter users over time 
 
-*introduction* 
+## introduction 
 
-*Queen Elizabeth's Death*
+## Queen Elizabeth's Death
 
-*method* 
+## method 
 
-*results* 
-**comparing over time** 
-**week 1**
-**week 2**
-**week 3**
-**week 4**
+## results - comparing over time
+### week 1
+### week 2
+### week 3
+### week 4
 
-*Discussion - limitations* 
+## Discussion - limitations
 
-*Conclusion* 
-**synthesis of results**
+## Conclusion
+### synthesis of results
