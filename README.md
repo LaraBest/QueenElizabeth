@@ -15,6 +15,8 @@ Thus, we necessarily expected at first sight empathetic reactions to the death o
 
 This is why we asked ourselves: how did perceptions of the queen's death change over time? 
 
+To answer this research question, we employ methods of topic modelling, to see which themes arose in the twitter discussion, and network mapping of the most frequent terms, to determine how the different discussion amongst twitter users interact amongst themselves. 
+
 We had some hypotheses, notably that over time the interpretations of the death became more focused on the queen’s colonial legacy, while in the beginning the topics/sentiments would be more focused on mourning and her positive legacy.
  
 
