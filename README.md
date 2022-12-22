@@ -261,9 +261,5 @@ The outcome of the network model for week 4 strongly supports the findings of th
 
 ## Conclusion/discussion
 ### synthesis of results
-- compare the results of the different weeks between one another -> answer the research question 
-- differences between the weeks 
-- similarities 
-- what stood out as notable 
-- what can we conclude about evolution over time 
-- ... despite our limitations our main conclusions is x 
+In conclusion, we see some evolutions in the reactions that follow the death of Queen Elizabeth II. We saw throughout the 3 first weeks elements that come to criticize the colonial empire of the United Kingdom, but nothing really prominent. There seems to be mostly condolence reactions throughout the first weeks, as well as mourning and sadness about the Queen's death. The reactions also change depending on the events that take place that are related to the queen's death, such as the burial or the death certificate, but there is never anything strongly negative about the queen. Thus, even though a lot of controversial actions happened during the reign of the queen, it seems that twitter users have not brought up as much as we imagined of the colonial past of the United Kingdom and its still neo-colonialist practices. We were able to analyze some elements about colonialism through the weeks, but it was never something clearly conclusive. It is possible that these assumptions were in part due to our own bubble in which we operate, we are ourselves somewhat biased. Indeed, in a somewhat more "wokist" trend that we fit into, we have observed mainly reactions questioning the role of the queen in the colonial empire. However, it seems that the Twitter reactions corresponding to the search "Queen Elizabeth death lang:en" are still reactions showing empathy and sympathy towards the Queen. We also analyze a lot of reactions that concern the other members of the royal family, since the death of the Queen puts at the head of the United Kingdom a new king. It may also change the dynamics of the family with respect to certain members of the royal family.
+	So, it would seem that English royalty and its members continue to fascinate the world, and interest a large number of Twitter users, despite the highly objectionable things they may have done. 
