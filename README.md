@@ -28,10 +28,12 @@ We had some hypotheses, notably that over time the interpretations of the death 
 5. Limitations
 6. Conclusion
 
-## Queen Elizabeth's Death
-- setting up the case - what happened, what other people have analysed (news articles etc)
-- why is this research relevant - what is our objective - relevance of looking at the issue over time 
-- similar papers (others using computational content analysis methods to analyse social media after someone died/perceptions of a famous person etc) 
+## Case Info/Literature
+	Most of the articles on the reaction to the death of the Queen highlight reactions of sadness, condolence and respect for this historical figure. On the other hand, some articles also show indifference in the reactions, or even critical reactions towards the colonial empire. However, this is not a majority, and most heads of state of African, formerly Commonwealth, countries show some respect for the Queen, as we see in this Le Monde article.[^1]
+	This is also why we want to use topic modelling as we want to analyse the other themes of the tweets beyond condolences and mournings. As DiMaggio said in his academic paper[^2] : “‘Topic modelling algorithms are a suite of machine learning methods for discovering hidden thematic structure in large collections of documents”. We are going to study each week what topic modelling appears in the reactions of twitter to analyse the evolution over the four weeks.
+
+[^1] : En Afrique, les réactions à la mort d’Elizabeth II ne sont pas unanimes ; Lucie Mouillaux, Romain Chanson, Liza Fabbian et Marine Jeannin ; 09/09/2022 ; Le Monde ; https://www.lemonde.fr/afrique/article/2022/09/09/en-afrique-les-reactions-a-la-mort-d-elizabeth-ii-ne-sont-pas-toutes-unanimes_6140955_3212.html 
+[^2] : DiMaggio, Paul, Manish Nag,and David Blei. "Exploiting affinties between topic modeling and the sociological perspective on culture : Application to newspaper coverage of U.S. government arts funding", Poeticcs. december 2013, vol.41 n°6. p570-606
 
 ## Method 
 
