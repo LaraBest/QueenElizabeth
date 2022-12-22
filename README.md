@@ -5,7 +5,6 @@ Analysing the perceptions of Queen Elizabeth's death among twitter users over ti
 
 ## Introduction 
 
-<p align="justify">
 September 8, 2022 marks the death of Queen Elizabeth II. Four months ago, the Queen passed away at the age of 96, after a reign over the United Kingdom and the Commonwealth realms for almost 70 years. Indeed, a few months earlier, the queen had celebrated her platinum jubilee marking this exceptional duration. To be interested in the Queen is to be interested in a contemporary figure, while at the same time being interested in a historical figure. She has known and worked with a great number of figures while being an important actor herself. She was probably also one of the most famous people on the planet, everyone knew Queen Elizabeth II. 
 
 <p align="justify">
