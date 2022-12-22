@@ -1,5 +1,6 @@
 # Public perceptions of the death of Queen Elizabeth II
 Analysing the perceptions of Queen Elizabeth's death among twitter users over time 
+*By Lara Best-Dunkley, Carolina Bergstein, Benjamin Garcia*
 
 ## introduction 
 - short overview of the research 
