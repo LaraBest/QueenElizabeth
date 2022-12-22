@@ -30,11 +30,9 @@ We had some hypotheses, notably that over time the interpretations of the death 
 7. Bibliography
 
 ## Case Info/Literature
-Most of the articles on the reaction to the death of the Queen highlight reactions of sadness, condolence and respect for this historical figure. On the other hand, some articles also show indifference in the reactions, or even critical reactions towards the colonial empire. However, this is not a majority, and most heads of state of Africa, from colonized countries, show some respect for the Queen, as we see in this Le Monde article[^1].
-This is also why we want to use topic modelling as we want to analyse the other themes of the tweets beyond condolences and mournings. As DiMaggio said in his academic paper[^2] : “Topic modelling algorithms are a suite of machine learning methods for discovering hidden thematic structure in large collections of documents”. We are going to study each week what topic modelling appears in the reactions of twitter to analyse the evolution over the four weeks.
+Most of the articles on the reaction to the death of the Queen highlight reactions of sadness, condolence and respect for this historical figure. On the other hand, some articles also show indifference in the reactions, or even critical reactions towards the colonial empire. However, this is not a majority, and most heads of state of Africa, from colonized countries, show some respect for the Queen, as we see in this Le Monde article[1].
+This is also why we want to use topic modelling as we want to analyse the other themes of the tweets beyond condolences and mournings. As DiMaggio said in his academic paper[2] : “Topic modelling algorithms are a suite of machine learning methods for discovering hidden thematic structure in large collections of documents”. We are going to study each week what topic modelling appears in the reactions of twitter to analyse the evolution over the four weeks.
 
-[^1] : En Afrique, les réactions à la mort d’Elizabeth II ne sont pas unanimes ; Lucie Mouillaux, Romain Chanson, Liza Fabbian et Marine Jeannin ; 09/09/2022 ; Le Monde ; https://www.lemonde.fr/afrique/article/2022/09/09/en-afrique-les-reactions-a-la-mort-d-elizabeth-ii-ne-sont-pas-toutes-unanimes_6140955_3212.html 
-[^2] : DiMaggio, Paul, Manish Nag,and David Blei. "Exploiting affinties between topic modeling and the sociological perspective on culture : Application to newspaper coverage of U.S. government arts funding", Poeticcs. december 2013, vol.41 n°6. p570-606
 
 ## Method 
 
@@ -299,3 +297,5 @@ In conclusion, we see some evolutions in the reactions that follow the death of 
 So, it would seem that English royalty and its members continue to fascinate the world, and interest a large number of Twitter users, despite the highly objectionable things they may have done. 
 
 ## Bibliography
+[1] : En Afrique, les réactions à la mort d’Elizabeth II ne sont pas unanimes ; Lucie Mouillaux, Romain Chanson, Liza Fabbian et Marine Jeannin ; 09/09/2022 ; Le Monde ; https://www.lemonde.fr/afrique/article/2022/09/09/en-afrique-les-reactions-a-la-mort-d-elizabeth-ii-ne-sont-pas-toutes-unanimes_6140955_3212.html 
+[2] : DiMaggio, Paul, Manish Nag,and David Blei. "Exploiting affinties between topic modeling and the sociological perspective on culture : Application to newspaper coverage of U.S. government arts funding", Poeticcs. december 2013, vol.41 n°6. p570-606
