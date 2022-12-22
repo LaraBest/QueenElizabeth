@@ -19,7 +19,6 @@ We had some hypotheses, notably that over time the interpretations of the death 
  
 
 <img width="451" alt="Capture d’écran 2022-12-22 à 18 10 26" src="https://user-images.githubusercontent.com/115983367/209189282-e58179ac-c329-43ac-a035-34a2277dc80a.png">
-![this is an image](https://user-images.githubusercontent.com/121036377/209211815-581a6107-bfa1-4a8f-967f-246ae4522fd0.jpg)
 
 # Plan :
 1. Case Info/Literature
