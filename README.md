@@ -22,6 +22,7 @@ This is why we asked ourselves: how did perceptions of the queen's death change 
 
 <p align="justify">
 We had some hypotheses, notably that over time the interpretations of the death became more focused on the queen’s colonial legacy, while in the beginning the topics/sentiments would be more focused on mourning and her positive legacy.
+ 
 
 <img width="451" alt="Capture d’écran 2022-12-22 à 18 10 26" src="https://user-images.githubusercontent.com/115983367/209189282-e58179ac-c329-43ac-a035-34a2277dc80a.png">
 
@@ -41,7 +42,6 @@ We had some hypotheses, notably that over time the interpretations of the death 
 ## Method 
 
  
-<p align="justify">
 **1.  Selection of time periods and extraction of tweets using minet.** To answer our research question, we decided to extract tweets over the course of the month of September, to see how, in each week, perceptions of the Queen’s death changed. To ensure our datasets included enough tweets for a comprehensive analysis, we selected three days for each week of September per dataset. We decided to extract four discrete datasets to be able to create independent network maps and topic models of their tweets, and to determine whether the number of tweets on the topic of the Queen’s death changed over time, which would be illustrated in the size of the datasets. The starting day of the data collection is the 8th of September – the day Queen Elizabeth’s death was made public. Another notable day during the collection period is September 19th, the day of the Queen’s funeral. Although the date is not included in a dataset, we expected it to influence the tweets of the nearby weeks. We extracted the tweets from twitter using the query “Queen Elizabeth death lang:en until:2022-9-10 since:2022-09-08”, changing the dates as corresponding with our selected time periods. 
 
 ![image](https://user-images.githubusercontent.com/115983335/209151929-9e155c57-6a6b-4d13-8f5f-0ec231235ab5.png)
@@ -84,6 +84,7 @@ The online visualisation of the topic model for the week 1 dataset can be access
 | 9_wish_flag_excruci_professor_pain |
 
 
+<p align="justify">
 The topic modelling for Dataset 1, which includes tweets from the first three days after Queen Elizabeth’s death, present quite predictable results. The topics mainly revolve around twitter users presenting their condolences for the Queen’s death (see topic 4, topic 10), as well as their mourning and sadness over the announcement (see topic 10, topic 3). There is also a prominence of wishing that the Queen shall rest in peace (topic 8). This was present also from an international dimension, as many topics included the names of foreign leaders who had made public statements on the Queen’s death (see topic 2) – “world” was also the 6th most salient term in dataset.  Interestingly, instead of Elizabeth or Queen being the most salient terms, “king” and “Charl” (referring to Charles, the new King of the United Kingdom) were the most salient. This would suggest that twitter users perceived the shift of power after the Queen’s death to the new King as very important. Finally, topic 9 shows discussion among twitter users on a tweet by a Carnegie Mellon professor Uju Anya, whereby she wished the Queen an “excruciating death”. The original tweet and the heated debate which followed its release, also evidenced by this topic model, demonstrate the divided perceptions of twitter users on the topic of Queen Elizabeth’s death, already in the first days after it happened. 
 
 
@@ -105,7 +106,7 @@ The interactive version of the network map can be accessed [here](https://docume
 | 9	| britain great	| Great Britain	| Great Britain |
 | 10 |	kate middleton	| Kate Middleton |	Kate Middleton |
 
-
+<p align="justify">
 The network map based on the top 100 most frequent terms in the tweets shows similar patters as the topic model for Week 1. This is shown by the three largest clusters in the network model, which are closely tied together with lots of short edges, meaning the terms are closely associated in tweets. The three topics include 1. Various expressions of condolence and sadness (blue), 2. References to the importance and significance of this “moment in history” meaning the shifting of power to King Charles (orange) and 3. Mentions of other members of the royal family. The network map also demonstrates the divided nature of the discussion about the Queen’s death, as contentious issues arise alongside the condolences. In the dark blue cluster, the term “kohinoor diamond” references the highly valuable diamond is a part of the Queen’s crown (taken from India during the imperial era), which has caused debate over whether it should be returned to India. Similarly, the Uju Anya tweet also makes an appearance in a small dark red cluster. However, both of the more critical clusters are completely disconnected from the clusters on condolences, which may suggest that these conversations were occurring separate from each other on twitter. 
 
 
@@ -136,6 +137,7 @@ The online visualisation of the topic model for the week 2 dataset can be access
 | 10_wish_royal_professor_call_world |
 
 
+<p align="justify">
 In the second week, the topics were very consistently about mourning both among the royal family (see topic 4, topic 2) and the British nation (see topic 5). Lots of the most salient terms included terms referring to expressing loss and sorrow and about the royal family. Still, week 2 included topic 10, which has many terms referencing the Uju Anya tweet and Britain’s history of colonialism more broadly. For instance, topic 10 includes the terms “Africa”, “exploit”, “steal” and “pain”, all which seem to refer to Britain’s colonial history. 
 
 
@@ -159,6 +161,7 @@ The interactive version of the network map can be accessed [here](https://docume
 | 10	| carnegi mellon professor |	Carnegie Mellon Professor	| Carnegie Mellon Professor |
 
 
+<p align="justify">
 The network map of the top 100 most frequent terms highlights the prominence of perceptions of the linkages between Queen Elizabeth II and Britain’s colonial legacy, with many related terms showing up on the Top 10 list and featuring often in the most important clusters. Although grief and condolences still show up as having an important role in twitter discussions in the second week, topics of the UK’s imperial past and justice for it were very present in conversation and were interlinked with the grief-based discussions. 
 
 
@@ -189,6 +192,7 @@ The online visualisation of the topic model for the week 3 dataset can be access
 | 6_hour_street_vandal_statu_target |
 
 
+<p align="justify">
 The topic modelling of week 3 produced varying results. The topics mainly consisted of terms referencing Britain’s colonial history and slave trade as well as how the Simpsons animated television show seemingly ‘predicted’ Queen Elizabeth’s death (see topic 2, topic 4). Mentions of condolences and mourning vis a vis the British royal family still came up as salient in the topic modelling but has a visibly lower frequency than in previous weeks (see topic 5, topic 3). Another prominent feature in Dataset 3 was the salience of terms referring to Britain’s colonisation of Australia and their subsequent treatment of indigenous peoples (see topic 6). 
 
 
@@ -212,6 +216,7 @@ The interactive version of the network map can be accessed [here](https://docume
 | 10	| statu street wall	| Wall Street statue |	Wall Street statue |
 
 
+<p align="justify">
 The network map for week 3 shows some familiar themes about condolences for the Queen’s death and about the legacies of British colonialism. However, the focus of the top 100 most frequent terms in this dataset and their interlinkages focus significantly more on people in the British royal family and the different royal estates than on colonial legacy, as was the case with this dataset’s topic model. The network model still shows some shared edges between “graffiti targeting queen” (which references the Australian case, as in the topic model) with the more general large yellow cluster on members of the royal family. 
 
 
@@ -239,6 +244,7 @@ The online visualisation of the topic model for the week 4 dataset can be access
 | 9_—_»_«_nation_reason |
 
 
+<p align="justify">
 Notably, the tweets in the fourth and final week of analysis after Queen Elizabeth’s death focus on her cause of death and her old age. This makes sense, as on the first day of data collection for Dataset 4, the Queen’s death certificate was released. The topics in this week centre thus on the contents of the death certificate and how news agencies interpreted its significance. Differing from the previous weeks, the most salient terms in week 4 did not include as many references to sadness and condolences about the Queen’s death, rather the most salient terms discussed “old age” as the Queen was 96 when she died. The terms “age”, “old” and “die” featured in the top five most salient terms of the entire dataset. 
 
 
@@ -262,6 +268,7 @@ The interactive version of the network map can be accessed [here](https://docume
 | 10 |	8th septemb |	September 8th |	September 8th & 8th September |
 
 
+<p align="justify">
 The outcome of the network model for week 4 strongly supports the findings of the topic model. The large, central, blue cluster includes terms relating to the release of the official death certificate, and every other cluster has edges connecting to it. This demonstrates that the death certificate played a central role in the twitter conversation over the course of these days. The other clusters have terms which link quite clearly to the Queen’s death with the orange cluster having many terms referring to the time of death and neighbouring (and overlapping) yellow one focusing on Scotland and Balmoral, where the Queen died. Notably, this network map has no references to Britain’s colonial legacy, but for the first time the isolation caused by Covid 19 is present in the network, in a small and distant cluster in the top left corner, which still links to the death certificate/cause of death of Queen Elizabeth. 
 
 ![week4network](https://user-images.githubusercontent.com/115983335/209165257-79a77b41-8438-4417-9003-a8606ea9d348.png)
