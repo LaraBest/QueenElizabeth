@@ -12,6 +12,13 @@ This is why we asked ourselves:
 how did perceptions of the queen's death change over time? 
 We had some hypotheses, notably that over time the interpretations of the death became more focused on the queen’s colonial legacy, while in the beginning the topics/sentiments would be more focused on mourning and her positive legacy.
 
+# Plan :
+1. Case Info/Literature
+2. Methodology
+3. Results per week
+4. Synthesis and comparisons
+5. Limitations
+6. Conclusion
 
 ## Queen Elizabeth's Death
 - setting up the case - what happened, what other people have analysed (news articles etc)
