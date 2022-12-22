@@ -7,10 +7,8 @@ Analysing the perceptions of Queen Elizabeth's death among twitter users over ti
 
 September 8, 2022 marks the death of Queen Elizabeth II. Four months ago, the Queen passed away at the age of 96, after a reign over the United Kingdom and the Commonwealth realms for almost 70 years. Indeed, a few months earlier, the queen had celebrated her platinum jubilee marking this exceptional duration. To be interested in the Queen is to be interested in a contemporary figure, while at the same time being interested in a historical figure. She has known and worked with a great number of figures while being an important actor herself. She was probably also one of the most famous people on the planet, everyone knew Queen Elizabeth II. 
 
-<p align="justify">
 Indeed, her reign marks the beginning of the real media coverage of the English royal family, and this is also what is interesting and what made this family so famous, in addition to the colonial empire founded by the United Kingdom, which extended over a large number of territories and populations. For example, the coronation of Queen Elizabeth II was the first to be broadcast live on television and was watched by the majority of the British people. Thus, we thought it would be interesting to analyze the live reactions around her death, on the social network Twitter. 
 
-<p align="justify">
 The reign of Elizabeth II is also a controversial one: between the death of Princess Diana in 1997, the affair of Meghan and Harry with the Megxit, the sulfurous affairs of her son Andrew that seem to have been covered up, and especially the colonial empire, we wondered if this would have an impact on the reactions to her death.
 
 <p align="justify">
@@ -293,7 +291,6 @@ Therefore, looking back at our hypotheses, on one hand, we can say that the deba
 
 <p align="justify">
 The mismatch between our expectations and reality can possibly be explained by what is called a “filter bubble”. This term, coined in 2010 by the author and Internet activist, Eli Pariser, means a state of intellectual isolation, resulting from algorithm-personalized information provided to the user base on its preferences. As a consequence, users only have access to a part of the whole of what is going on in social media and the problem is that these filters are not always transparent nor agreed upon by consensus between the user and the platform. Hence, our premise of thinking that the colonial debate would shift to be the focus of the discussion on the Queen’s death on Twitter may have been forged due to our own filter bubbles in social media where this topic gained a larger space over time, leaving us with the impression that this was the tendency everywhere.
-</p>
 
 ## Limitations
 
