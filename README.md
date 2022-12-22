@@ -11,10 +11,8 @@ Indeed, her reign marks the beginning of the real media coverage of the English 
 
 The reign of Elizabeth II is also a controversial one: between the death of Princess Diana in 1997, the affair of Meghan and Harry with the Megxit, the sulfurous affairs of her son Andrew that seem to have been covered up, and especially the colonial empire, we wondered if this would have an impact on the reactions to her death.
 
-<p align="justify">
 Thus, we necessarily expected at first sight empathetic reactions to the death of the queen in relation to the respect of a deceased person, but we wanted to know if these controversial matters for the queen would emerge again at her death, when the review on the life of this historical figure would be realized, and what would be the reaction of the Twitter users. In addition, we wondered if Twitter users from the former colonies of the United Kingdom, and the left part of the United Kingdom, would bring out these discussions again.
 
-<p align="justify">
 This is why we asked ourselves: how did perceptions of the queen's death change over time? 
 
 We had some hypotheses, notably that over time the interpretations of the death became more focused on the queen’s colonial legacy, while in the beginning the topics/sentiments would be more focused on mourning and her positive legacy.
@@ -80,7 +78,6 @@ The online visualisation of the topic model for the week 1 dataset can be access
 | 9_wish_flag_excruci_professor_pain |
 
 
-<p align="justify">
 The topic modelling for Dataset 1, which includes tweets from the first three days after Queen Elizabeth’s death, present quite predictable results. The topics mainly revolve around twitter users presenting their condolences for the Queen’s death (see topic 4, topic 10), as well as their mourning and sadness over the announcement (see topic 10, topic 3). There is also a prominence of wishing that the Queen shall rest in peace (topic 8). This was present also from an international dimension, as many topics included the names of foreign leaders who had made public statements on the Queen’s death (see topic 2) – “world” was also the 6th most salient term in dataset.  Interestingly, instead of Elizabeth or Queen being the most salient terms, “king” and “Charl” (referring to Charles, the new King of the United Kingdom) were the most salient. This would suggest that twitter users perceived the shift of power after the Queen’s death to the new King as very important. Finally, topic 9 shows discussion among twitter users on a tweet by a Carnegie Mellon professor Uju Anya, whereby she wished the Queen an “excruciating death”. The original tweet and the heated debate which followed its release, also evidenced by this topic model, demonstrate the divided perceptions of twitter users on the topic of Queen Elizabeth’s death, already in the first days after it happened. 
 
 
@@ -102,7 +99,6 @@ The interactive version of the network map can be accessed [here](https://docume
 | 9	| britain great	| Great Britain	| Great Britain |
 | 10 |	kate middleton	| Kate Middleton |	Kate Middleton |
 
-<p align="justify">
 The network map based on the top 100 most frequent terms in the tweets shows similar patters as the topic model for Week 1. This is shown by the three largest clusters in the network model, which are closely tied together with lots of short edges, meaning the terms are closely associated in tweets. The three topics include 1. Various expressions of condolence and sadness (blue), 2. References to the importance and significance of this “moment in history” meaning the shifting of power to King Charles (orange) and 3. Mentions of other members of the royal family. The network map also demonstrates the divided nature of the discussion about the Queen’s death, as contentious issues arise alongside the condolences. In the dark blue cluster, the term “kohinoor diamond” references the highly valuable diamond is a part of the Queen’s crown (taken from India during the imperial era), which has caused debate over whether it should be returned to India. Similarly, the Uju Anya tweet also makes an appearance in a small dark red cluster. However, both of the more critical clusters are completely disconnected from the clusters on condolences, which may suggest that these conversations were occurring separate from each other on twitter. 
 
 
@@ -133,7 +129,6 @@ The online visualisation of the topic model for the week 2 dataset can be access
 | 10_wish_royal_professor_call_world |
 
 
-<p align="justify">
 In the second week, the topics were very consistently about mourning both among the royal family (see topic 4, topic 2) and the British nation (see topic 5). Lots of the most salient terms included terms referring to expressing loss and sorrow and about the royal family. Still, week 2 included topic 10, which has many terms referencing the Uju Anya tweet and Britain’s history of colonialism more broadly. For instance, topic 10 includes the terms “Africa”, “exploit”, “steal” and “pain”, all which seem to refer to Britain’s colonial history. 
 
 
@@ -157,7 +152,6 @@ The interactive version of the network map can be accessed [here](https://docume
 | 10	| carnegi mellon professor |	Carnegie Mellon Professor	| Carnegie Mellon Professor |
 
 
-<p align="justify">
 The network map of the top 100 most frequent terms highlights the prominence of perceptions of the linkages between Queen Elizabeth II and Britain’s colonial legacy, with many related terms showing up on the Top 10 list and featuring often in the most important clusters. Although grief and condolences still show up as having an important role in twitter discussions in the second week, topics of the UK’s imperial past and justice for it were very present in conversation and were interlinked with the grief-based discussions. 
 
 
@@ -187,8 +181,7 @@ The online visualisation of the topic model for the week 3 dataset can be access
 | 1_here_read_know_british_die |
 | 6_hour_street_vandal_statu_target |
 
-
-<p align="justify">
+ 
 The topic modelling of week 3 produced varying results. The topics mainly consisted of terms referencing Britain’s colonial history and slave trade as well as how the Simpsons animated television show seemingly ‘predicted’ Queen Elizabeth’s death (see topic 2, topic 4). Mentions of condolences and mourning vis a vis the British royal family still came up as salient in the topic modelling but has a visibly lower frequency than in previous weeks (see topic 5, topic 3). Another prominent feature in Dataset 3 was the salience of terms referring to Britain’s colonisation of Australia and their subsequent treatment of indigenous peoples (see topic 6). 
 
 
@@ -212,7 +205,6 @@ The interactive version of the network map can be accessed [here](https://docume
 | 10	| statu street wall	| Wall Street statue |	Wall Street statue |
 
 
-<p align="justify">
 The network map for week 3 shows some familiar themes about condolences for the Queen’s death and about the legacies of British colonialism. However, the focus of the top 100 most frequent terms in this dataset and their interlinkages focus significantly more on people in the British royal family and the different royal estates than on colonial legacy, as was the case with this dataset’s topic model. The network model still shows some shared edges between “graffiti targeting queen” (which references the Australian case, as in the topic model) with the more general large yellow cluster on members of the royal family. 
 
 
@@ -240,7 +232,6 @@ The online visualisation of the topic model for the week 4 dataset can be access
 | 9_—_»_«_nation_reason |
 
 
-<p align="justify">
 Notably, the tweets in the fourth and final week of analysis after Queen Elizabeth’s death focus on her cause of death and her old age. This makes sense, as on the first day of data collection for Dataset 4, the Queen’s death certificate was released. The topics in this week centre thus on the contents of the death certificate and how news agencies interpreted its significance. Differing from the previous weeks, the most salient terms in week 4 did not include as many references to sadness and condolences about the Queen’s death, rather the most salient terms discussed “old age” as the Queen was 96 when she died. The terms “age”, “old” and “die” featured in the top five most salient terms of the entire dataset. 
 
 
@@ -264,55 +255,40 @@ The interactive version of the network map can be accessed [here](https://docume
 | 10 |	8th septemb |	September 8th |	September 8th & 8th September |
 
 
-<p align="justify">
 The outcome of the network model for week 4 strongly supports the findings of the topic model. The large, central, blue cluster includes terms relating to the release of the official death certificate, and every other cluster has edges connecting to it. This demonstrates that the death certificate played a central role in the twitter conversation over the course of these days. The other clusters have terms which link quite clearly to the Queen’s death with the orange cluster having many terms referring to the time of death and neighbouring (and overlapping) yellow one focusing on Scotland and Balmoral, where the Queen died. Notably, this network map has no references to Britain’s colonial legacy, but for the first time the isolation caused by Covid 19 is present in the network, in a small and distant cluster in the top left corner, which still links to the death certificate/cause of death of Queen Elizabeth. 
 
 ![week4network](https://user-images.githubusercontent.com/115983335/209165257-79a77b41-8438-4417-9003-a8606ea9d348.png)
 
 ## Discussion
 
-<p align="justify">
 Comparing each week, there were slight changes in the perception of the queen’s death over time. The most evident one refers to the fading relevance of the topic itself, indicated by the decreasing number of tweets collected per dataset. Her death provoked a large number of tweets on social media, allowing us to collect 50.000 tweets for the first three days after her death. This number dropped significantly for week 2, in which we were able to collect only 4.228 tweets. For Dataset 3 we had 1.013 tweets and, diverging from expected, in week 4 we had an increase in the number of tweets, 2.588, which can be explained by the release of the Queen’s death certificate, explaining the cause of her death and reviving the debate on Twitter.
 
-<p align="justify">
 Another aspect that follows this fading trend, is with respect to the mourning content of tweets. If on the day of her death and on the two subsequent days there are plenty of tweets revolving around condolences, grief, sadness and tributes, this is not the case for week 4. This tendency was expected, as people on social media normally react immediately to events, but don’t discuss them for a long period of time. For instance, trending topics on Twitter usually have a shelf-life of roughly 11 minutes. This movement of forgetting famous people faster than before was documented in a research paper published in Sciences Magazine, which stated: “in the future, everyone will be famous for 7.5 minutes”.
 
-<p align="justify">
 The diminution of words evoking condolences also seems to follow the end of the officials’ periods of mourning. For the United Kingdom, this period ended on the 19th, right after the Queen’s funeral – possibly impacting Dataset 3 (from the 22nd to the 24th of September), where there is already a reduction in the number of tweets with this type of content. And for the Royal family, the official period of mourning lasted until the 27th of September, before Dataset 4 was collected (September 29th until October 1st).
 
-<p align="justify">
 Moreover, the analysis of the datasets allowed us to test our hypotheses on the perceptions of the Queen’s death, shifting to a more critical view of her legacy, notably on colonialism over time. Indeed, the topic appeared in our results both in the Top 10 topics and Top 10 terms of Datasets 1, 2 and 3. In the first week, this discussion appeared mainly concentrated around a single Tweet made by Carnegie Mellon professor, Uju Anya, in which she wished the late Queen Elizabeth II “excruciating pain” in death (Topic 9, Dataset 1). The discussion on the “kohinoor diamond” was also already present since the beginning, although gained volume later during Datasets 2 and 3. It was also during these 2 weeks that we noticed a clearer debate on the Queen’s colonial legacy, including the term “legacy of colonialism” itself figuring among the Top 3 terms index of Dataset 3.
 
-<p align="justify">
 Comparing the four Network Maps, the one made out of Dataset 2 seems to be where the discussion on British Monarchy’s colonial legacy is the most integrated into the debate happening on Twitter. While in Week 1 the small debates on Uju Anya and on the Kohinoor diamond appear in two separate clusters, disconnected from each other and from the others, in Week 2 the references to colonialism are in nodes with high degrees. “Colonial memories”, “death as a win against imperialism”, “return of stolen jewels”, and “former British colonies” appears among the 100 most used terms in Dataset 2 and in different clusters, all more closely connected.  
 
-<p align="justify">
 Therefore, looking back at our hypotheses, on one hand, we can say that the debate on colonial legacy did appear on Twitter and grew in weeks 2 and 3, although it was already present since the beginning. On the other hand, the topic was never preponderant and was far from being the focus of the debate as time passed. The topic and terms on the subject assumed a marginal position in the debate, though always present. In this sense, the result did not correspond to our expectations of seeing a growing importance of this more critical regard to the Queen’s death over time.
 
-<p align="justify">
 The mismatch between our expectations and reality can possibly be explained by what is called a “filter bubble”. This term, coined in 2010 by the author and Internet activist, Eli Pariser, means a state of intellectual isolation, resulting from algorithm-personalized information provided to the user base on its preferences. As a consequence, users only have access to a part of the whole of what is going on in social media and the problem is that these filters are not always transparent nor agreed upon by consensus between the user and the platform. Hence, our premise of thinking that the colonial debate would shift to be the focus of the discussion on the Queen’s death on Twitter may have been forged due to our own filter bubbles in social media where this topic gained a larger space over time, leaving us with the impression that this was the tendency everywhere.
 
 ## Limitations
 
-<p align="justify">
 First of all, we did not fully observe what we thought we were observing. Indeed, we see mostly messages of sadness and condolences about the death of the queen. 
 
-<p align="justify">
 A first limitation to our research is perhaps the query we have done that has restricted us on the number of tweets. Indeed, we have focused on the search ""Queen Elizabeth death lang:en"" at several given dates. Thus, we only had the tweets that had all the words "Queen Elizabeth Death", which removes the tweets with only "Queen Elizabeth" or "Queen death". Contrary to the large number of tweets we expected, we sometimes got only a few thousand tweets. For example, between the 22nd and the 24th, we had only 1,013 tweets when the funeral had taken place on the 19th. Similarly, in the days leading up to the funeral (between the 15th and 17th), we had just under 5,000 tweets. Thus, this limits our analysis as to what we wanted to observe. Furthermore, the English language is also a limitation in itself since we do not have access to tweets from other countries that may be less warm towards the Queen, such as tweets in Indian or Swahili, which may be much more critical of the Queen and the empire they have suffered.
 
-<p align="justify">
 Then, it would have been interesting to have a wider search such as "Queen OR Elizabeth AND death OR legacy" which would have allowed us to widen our search, and to learn a little more about the idea that twitter has of Elizabeth II's legacy. We could also have analyzed the ratio of comments to likes to see what is really controversial, to see what brings discussion, more than tweets liked on the death of the queen that are only condolences. Also, we only looked at the discussion on twitter, where many users are passive (only liking and sharing), not at newspapers or other social media where people might express their thoughts/opinions differently.
 
-<p align="justify">
 Furthermore, on the evolution over time, we analyzed only 3 days over the one month period following the death of the queen. Although we have already observed evolutions on these periods, it might have been interesting to retrieve and analyze tweets on larger periods but later in time like 2 weeks in November, and 2 weeks in December. Thus, it could be interesting since there are always twists and turns regarding the royal family, especially right now with the release of the documentary Meghan and Harry which gathered almost 2.4 million people for the first episode on the first day of its broadcast on Netflix, December 8, 2022. 
 
-<p align="justify">
 Finally, we could also merge our different datasets to have a global analysis of all the collected tweets, which we could compare with each separate week. 
 
 ## Conclusion
 
-<p align="justify">
 In conclusion, we see some evolutions in the reactions that follow the death of Queen Elizabeth II. We saw throughout the 3 first weeks elements that come to criticize the colonial empire of the United Kingdom, but nothing really prominent. There seems to be mostly condolence reactions throughout the first weeks, as well as mourning and sadness about the Queen's death. The reactions also change depending on the events that take place that are related to the queen's death, such as the burial or the death certificate, but there is never anything strongly negative about the queen. Thus, even though a lot of controversial actions happened during the reign of the queen, it seems that twitter users have not brought up as much as we imagined of the colonial past of the United Kingdom and its still neo-colonialist practices. We were able to analyze some elements about colonialism through the weeks, but it was never something clearly conclusive. It is possible that these assumptions were in part due to our own bubble in which we operate, we are ourselves somewhat biased. Indeed, in a somewhat more "wokist" trend that we fit into, we have observed mainly reactions questioning the role of the queen in the colonial empire. However, it seems that the Twitter reactions corresponding to the search "Queen Elizabeth death lang:en" are still reactions showing empathy and sympathy towards the Queen. We also analyze a lot of reactions that concern the other members of the royal family, since the death of the Queen puts at the head of the United Kingdom a new king. It may also change the dynamics of the family with respect to certain members of the royal family.
 
-<p align="justify">
 So, it would seem that English royalty and its members continue to fascinate the world, and interest a large number of Twitter users, despite the highly objectionable things they may have done. 
