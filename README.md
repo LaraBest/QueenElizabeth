@@ -3,9 +3,15 @@ Analysing the perceptions of Queen Elizabeth's death among twitter users over ti
 
 *By Lara Best-Dunkley, Carolina Bergstein, Benjamin Garcia*
 
-## introduction 
-- short overview of the research 
-- research question, case, method, what the rest of the site contains (the different sections), main conclusion 
+## Introduction 
+September 8, 2022 marks the death of Queen Elizabeth II. Four months ago, the Queen passed away at the age of 96, after a reign over the United Kingdom and the Commonwealth realms for almost 70 years. Indeed, a few months earlier, the queen had celebrated her platinum jubilee marking this exceptional duration. To be interested in the Queen is to be interested in a contemporary figure, while at the same time being interested in a historical figure. She has known and worked with a great number of figures while being an important actor herself. She was probably also one of the most famous people on the planet, everyone knew Queen Elizabeth II. 
+Indeed, her reign marks the beginning of the real media coverage of the English royal family, and this is also what is interesting and what made this family so famous, in addition to the colonial empire founded by the United Kingdom, which extended over a large number of territories and populations. For example, the coronation of Queen Elizabeth II was the first to be broadcast live on television and was watched by the majority of the British people. Thus, we thought it would be interesting to analyze the live reactions around her death, on the social network Twitter. 
+	The reign of Elizabeth II is also a controversial one: between the death of Princess Diana in 1997, the affair of Meghan and Harry with the Megxit, the sulfurous affairs of her son Andrew that seem to have been covered up, and especially the colonial empire, we wondered if this would have an impact on the reactions to her death.
+Thus, we necessarily expected at first sight empathetic reactions to the death of the queen in relation to the respect of a deceased person, but we wanted to know if these controversial matters for the queen would emerge again at her death, when the review on the life of this historical figure would be realized, and what would be the reaction of the Twitter users. In addition, we wondered if Twitter users from the former colonies of the United Kingdom, and the left part of the United Kingdom, would bring out these discussions again.
+This is why we asked ourselves: 
+how did perceptions of the queen's death change over time? 
+We had some hypotheses, notably that over time the interpretations of the death became more focused on the queen’s colonial legacy, while in the beginning the topics/sentiments would be more focused on mourning and her positive legacy.
+
 
 ## Queen Elizabeth's Death
 - setting up the case - what happened, what other people have analysed (news articles etc)
