@@ -301,6 +301,6 @@ So, it would seem that English royalty and its members continue to fascinate the
 
 [2] : DiMaggio, Paul, Manish Nag,and David Blei. "Exploiting affinties between topic modeling and the sociological perspective on culture : Application to newspaper coverage of U.S. government arts funding", Poeticcs. december 2013, vol.41 n°6. p570-606
 
-[3]: Michel, Jean-Baptiste, Yuan Kui Shen, Aviva Presser Aiden, et al. « Quantitative Analysis of Culture Using Millions of Digitized Books », Science. 14 janvier 2011, vol.331 nᵒ 6014. p. 176‑182.
+[3] : Michel, Jean-Baptiste, Yuan Kui Shen, Aviva Presser Aiden, et al. « Quantitative Analysis of Culture Using Millions of Digitized Books », Science. 14 janvier 2011, vol.331 nᵒ 6014. p. 176‑182.
 
-[4]: Pariser, Eli. The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think. London : Penguin Books. 2012. 304 p.
+[4] : Pariser, Eli. The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think. London : Penguin Books. 2012. 304 p.
