@@ -258,8 +258,10 @@ The outcome of the network model for week 4 strongly supports the findings of th
 
 ![week4network](https://user-images.githubusercontent.com/115983335/209165257-79a77b41-8438-4417-9003-a8606ea9d348.png)
 
+<p align="justify">
 ## Analysis
 Comparing each week, there were slight changes in the perception of the queen’s death over time. The most evident one refers to the fading relevance of the topic itself, indicated by the decreasing number of tweets collected per dataset. Her death provoked a large number of tweets on social media, allowing us to collect 50.000 tweets for the first three days after her death. This number dropped significantly for week 2, in which we were able to collect only 4.228 tweets. For Dataset 3 we had 1.013 tweets and, diverging from expected, in week 4 we had an increase in the number of tweets, 2.588, which can be explained by the release of the Queen’s death certificate, explaining the cause of her death and reviving the debate on Twitter.
+</p>
 
 Another aspect that follows this fading trend, is with respect to the mourning content of tweets. If on the day of her death and on the two subsequent days there are plenty of tweets revolving around condolences, grief, sadness and tributes, this is not the case for week 4. This tendency was expected, as people on social media normally react immediately to events, but don’t discuss them for a long period of time. For instance, trending topics on Twitter usually have a shelf-life of roughly 11 minutes. This movement of forgetting famous people faster than before was documented in a research paper published in Sciences Magazine, which stated: “in the future, everyone will be famous for 7.5 minutes”.
 
