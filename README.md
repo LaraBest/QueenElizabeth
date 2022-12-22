@@ -295,7 +295,10 @@ In conclusion, we see some evolutions in the reactions that follow the death of 
 So, it would seem that English royalty and its members continue to fascinate the world, and interest a large number of Twitter users, despite the highly objectionable things they may have done. 
 
 ## Bibliography
-[1] : En Afrique, les réactions à la mort d’Elizabeth II ne sont pas unanimes ; Lucie Mouillaux, Romain Chanson, Liza Fabbian et Marine Jeannin ; 09/09/2022 ; Le Monde ; https://www.lemonde.fr/afrique/article/2022/09/09/en-afrique-les-reactions-a-la-mort-d-elizabeth-ii-ne-sont-pas-toutes-unanimes_6140955_3212.html 
+[1] : En Afrique, les réactions à la mort d’Elizabeth II ne sont pas unanimes ; Lucie Mouillaux, Romain Chanson, Liza Fabbian et Marine Jeannin ; 09/09/2022 ; Le Monde ; https://www.lemonde.fr/afrique/article/2022/09/09/en-afrique-les-reactions-a-la-mort-d-elizabeth-ii-ne-sont-pas-toutes-unanimes_6140955_3212.html
+
 [2] : DiMaggio, Paul, Manish Nag,and David Blei. "Exploiting affinties between topic modeling and the sociological perspective on culture : Application to newspaper coverage of U.S. government arts funding", Poeticcs. december 2013, vol.41 n°6. p570-606
+
 [3]: Michel, Jean-Baptiste, Yuan Kui Shen, Aviva Presser Aiden, et al. « Quantitative Analysis of Culture Using Millions of Digitized Books », Science. 14 janvier 2011, vol.331 nᵒ 6014. p. 176‑182.
+
 [4]: Pariser, Eli. The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think. London : Penguin Books. 2012. 304 p.
