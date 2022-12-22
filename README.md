@@ -16,13 +16,15 @@ This is why we asked ourselves: how did perceptions of the queen's death change 
 
 We had some hypotheses, notably that over time the interpretations of the death became more focused on the queen’s colonial legacy, while in the beginning the topics/sentiments would be more focused on mourning and her positive legacy.
 
+<img width="451" alt="Capture d’écran 2022-12-22 à 18 10 26" src="https://user-images.githubusercontent.com/115983367/209189282-e58179ac-c329-43ac-a035-34a2277dc80a.png">
+
 # Plan :
 1. Case Info/Literature
 2. Methodology
 3. Results per week
 4. Synthesis and comparisons
 5. Limitations
-6. Conclusion
+6. Conclusion/Discussion
 
 ## Queen Elizabeth's Death
 - setting up the case - what happened, what other people have analysed (news articles etc)
@@ -269,7 +271,7 @@ Furthermore, on the evolution over time, we analyzed only 3 days over the one mo
 Finally, we could also merge our different datasets to have a global analysis of all the collected tweets, which we could compare with each separate week. 
 
 ## Conclusion/discussion
-### synthesis of results
+
 In conclusion, we see some evolutions in the reactions that follow the death of Queen Elizabeth II. We saw throughout the 3 first weeks elements that come to criticize the colonial empire of the United Kingdom, but nothing really prominent. There seems to be mostly condolence reactions throughout the first weeks, as well as mourning and sadness about the Queen's death. The reactions also change depending on the events that take place that are related to the queen's death, such as the burial or the death certificate, but there is never anything strongly negative about the queen. Thus, even though a lot of controversial actions happened during the reign of the queen, it seems that twitter users have not brought up as much as we imagined of the colonial past of the United Kingdom and its still neo-colonialist practices. We were able to analyze some elements about colonialism through the weeks, but it was never something clearly conclusive. It is possible that these assumptions were in part due to our own bubble in which we operate, we are ourselves somewhat biased. Indeed, in a somewhat more "wokist" trend that we fit into, we have observed mainly reactions questioning the role of the queen in the colonial empire. However, it seems that the Twitter reactions corresponding to the search "Queen Elizabeth death lang:en" are still reactions showing empathy and sympathy towards the Queen. We also analyze a lot of reactions that concern the other members of the royal family, since the death of the Queen puts at the head of the United Kingdom a new king. It may also change the dynamics of the family with respect to certain members of the royal family.
 
 So, it would seem that English royalty and its members continue to fascinate the world, and interest a large number of Twitter users, despite the highly objectionable things they may have done. 
