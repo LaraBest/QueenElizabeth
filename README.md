@@ -67,12 +67,12 @@ The interactive version of the network map can be accessed [here](https://docume
 | -------- | ------ | ------ | ----- |
 | 1 |	british throne |	British throne |	British throne |
 | 2 |	address charl iii	 | Charles III addresses	| Charles III addresses |
-| 3	| elizabeth news queen	| news of Queen Elizabeth	| news of Queen Elizabeth|&|News of Queen Elizabeth|&|Queen Elizabeth News|&|News Queen Elizabeth|&|news about Queen Elizabeth|&|news Queen Elizabeth | 
+| 3	| elizabeth news queen	| news of Queen Elizabeth	| news of Queen Elizabeth & News of Queen Elizabeth & Queen Elizabeth News & News Queen Elizabeth & news about Queen Elizabeth & news Queen Elizabeth | 
 | 4	| canada queen	| Queen of Canada	| Queen of Canada |
 | 5	| alexandra elizabeth mari |	Elizabeth Alexandra Mary	| Elizabeth Alexandra Mary |
 | 6	| bezo jeff	| Jeff Bezos	| Jeff Bezos |
 | 7	| uk world	| UK and world |	UK and world |
-| 8	| age death |	death at the age | death at the age|&|death aged|&|death age|&|death at age |
+| 8	| age death |	death at the age | death at the age & death aged & death age & death at age |
 | 9	| britain great	| Great Britain	| Great Britain |
 | 10 |	kate middleton	| Kate Middleton |	Kate Middleton |
 
@@ -175,8 +175,8 @@ The interactive version of the network map can be accessed [here](https://docume
 | 2	| death follow queen |	death following Queen |	death following Queen |
 | 3 |	coloni legaci	| legacy of colonialism |	legacy of colonialism |
 | 4	| cybercrimin death use |	cybercriminals use the death	| cybercriminals use the death |
-| 5	| content note	| contents of note	| contents of note|&|contents of the note |
-| 6 |	elizabeth news queen	| news of Queen Elizabeth	| news of Queen Elizabeth|&|news about Queen Elizabeth |
+| 5	| content note	| contents of note	| contents of note & contents of the note |
+| 6 |	elizabeth news queen	| news of Queen Elizabeth	| news of Queen Elizabeth & news about Queen Elizabeth |
 | 7	| crown fact jewel	| fact that the Crown Jewels |	fact that the Crown Jewels |
 | 8	| famou street wall	| Famous Wall Street	| Famous Wall Street |
 | 9	| elizabeth hour queen	| Queen Elizabeth hours	| Queen Elizabeth hours |
@@ -221,16 +221,16 @@ The interactive version of the network map can be accessed [here](https://docume
 
 | Top 10 most frequent terms |	Stem |	Main form |	Forms |
 | ---- | ----- | ------ | ------ |
-| 1	| releas scotland |	Scotland Releases |	Scotland Releases|&|Scotland released|&|Scotland releases |
+| 1	| releas scotland |	Scotland Releases |	Scotland Releases & Scotland released & Scotland releases |
 | 2	| longest monarch reign |	longest reigning monarch |	longest reigning monarch |
-| 3	| age http old |	old age https |	old age https|&|Old Age https |
+| 3	| age http old |	old age https |	old age https & Old Age https |
 | 4	| archiv nation scotland |	National Archives of Scotland |	National Archives of Scotland |
 | 5	| elizabeth hour queen |	hours after Queen Elizabeth |	hours after Queen Elizabeth |
-| 6 |	fox news |	Fox News |	Fox News|&|Fox news |
-| 7	| elizabeth queen |	Queen Elizabeth	| Queen Elizabeth|&|queen elizabeth|&|queen Elizabeth|&|QUEEN ELIZABETH|&|ELIZABETH QUEEN |
+| 6 |	fox news |	Fox News |	Fox News & Fox news |
+| 7	| elizabeth queen |	Queen Elizabeth	| Queen Elizabeth & queen elizabeth & queen Elizabeth & QUEEN ELIZABETH & ELIZABETH QUEEN |
 | 8	| balmor castl |	Balmoral Castle |	Balmoral Castle |
 | 9	| death list time |	listed time of death	| listed time of death |
-| 10 |	8th septemb |	September 8th |	September 8th|&|8th September |
+| 10 |	8th septemb |	September 8th |	September 8th & 8th September |
 
 
 The outcome of the network model for week 4 strongly supports the findings of the topic model. The large, central, blue cluster includes terms relating to the release of the official death certificate, and every other cluster has edges connecting to it. This demonstrates that the death certificate played a central role in the twitter conversation over the course of these days. The other clusters have terms which link quite clearly to the Queen’s death with the orange cluster having many terms referring to the time of death and neighbouring (and overlapping) yellow one focusing on Scotland and Balmoral, where the Queen died. Notably, this network map has no references to Britain’s colonial legacy, but for the first time the isolation caused by Covid 19 is present in the network, in a small and distant cluster in the top left corner, which still links to the death certificate/cause of death of Queen Elizabeth. 
