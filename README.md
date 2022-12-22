@@ -258,10 +258,10 @@ The outcome of the network model for week 4 strongly supports the findings of th
 
 ![week4network](https://user-images.githubusercontent.com/115983335/209165257-79a77b41-8438-4417-9003-a8606ea9d348.png)
 
-<p align="justify">
 ## Analysis
+
+<p align="justify">
 Comparing each week, there were slight changes in the perception of the queen’s death over time. The most evident one refers to the fading relevance of the topic itself, indicated by the decreasing number of tweets collected per dataset. Her death provoked a large number of tweets on social media, allowing us to collect 50.000 tweets for the first three days after her death. This number dropped significantly for week 2, in which we were able to collect only 4.228 tweets. For Dataset 3 we had 1.013 tweets and, diverging from expected, in week 4 we had an increase in the number of tweets, 2.588, which can be explained by the release of the Queen’s death certificate, explaining the cause of her death and reviving the debate on Twitter.
-</p>
 
 Another aspect that follows this fading trend, is with respect to the mourning content of tweets. If on the day of her death and on the two subsequent days there are plenty of tweets revolving around condolences, grief, sadness and tributes, this is not the case for week 4. This tendency was expected, as people on social media normally react immediately to events, but don’t discuss them for a long period of time. For instance, trending topics on Twitter usually have a shelf-life of roughly 11 minutes. This movement of forgetting famous people faster than before was documented in a research paper published in Sciences Magazine, which stated: “in the future, everyone will be famous for 7.5 minutes”.
 
@@ -273,7 +273,8 @@ Comparing the four Network Maps, the one made out of Dataset 2 seems to be where
 
 Therefore, looking back at our hypotheses, on one hand, we can say that the debate on colonial legacy did appear on Twitter and grew in weeks 2 and 3, although it was already present since the beginning. On the other hand, the topic was never preponderant and was far from being the focus of the debate as time passed. The topic and terms on the subject assumed a marginal position in the debate, though always present. In this sense, the result did not correspond to our expectations of seeing a growing importance of this more critical regard to the Queen’s death over time.
 
-The mismatch between our expectations and reality can possibly be explained by what is called a “filter bubble”. This term, coined in 2010 by the author and Internet activist, Eli Pariser, means a state of intellectual isolation, resulting from algorithm-personalized information provided to the user base on its preferences. As a consequence, users only have access to a part of the whole of what is going on in social media and the problem is that these filters are not always transparent nor agreed upon by consensus between the user and the platform. Hence, our premise of thinking that the colonial debate would shift to be the focus of the discussion on the Queen’s death on Twitter may have been forged due to our own filter bubbles in social media where this topic gained a larger space over time, leaving us with the impression that this was the tendency everywhere.       
+The mismatch between our expectations and reality can possibly be explained by what is called a “filter bubble”. This term, coined in 2010 by the author and Internet activist, Eli Pariser, means a state of intellectual isolation, resulting from algorithm-personalized information provided to the user base on its preferences. As a consequence, users only have access to a part of the whole of what is going on in social media and the problem is that these filters are not always transparent nor agreed upon by consensus between the user and the platform. Hence, our premise of thinking that the colonial debate would shift to be the focus of the discussion on the Queen’s death on Twitter may have been forged due to our own filter bubbles in social media where this topic gained a larger space over time, leaving us with the impression that this was the tendency everywhere.
+</p>
 
 ## Discussion - limitations
 First of all, we did not fully observe what we thought we were observing. Indeed, we see mostly messages of sadness and condolences about the death of the queen. 
