@@ -11,11 +11,18 @@ Analysing the perceptions of Queen Elizabeth's death among twitter users over ti
 - similar papers (others using computational content analysis methods to analyse social media after someone died/perceptions of a famous person etc) 
 
 ## method 
-- splitting over time periods (put in the calendar image that was in the canva slides)
-- tweets extraction
-- keywordd extraction - we can put in the screenshots 
-- explaining what kind of thresholds we set/cleaning of the data for better results 
-- network mapping of key words 
+
+***1.  Selection of time periods and extraction of tweets using minet.*** To answer our research question, we decided to extract tweets over the course of the month of September, to see how, in each week, perceptions of the Queen’s death changed. To ensure our datasets included enough tweets for a comprehensive analysis, we selected three days for each week of September per dataset. We decided to extract four discrete datasets to be able to create independent network maps and topic models of their tweets, and to determine whether the number of tweets on the topic of the Queen’s death changed over time, which would be illustrated in the size of the datasets. The starting day of the data collection is the 8th of September – the day Queen Elizabeth’s death was made public. Another notable day during the collection period is September 19th, the day of the Queen’s funeral. Although the date is not included in a dataset, we expected it to influence the tweets of the nearby weeks. We extracted the tweets from twitter using the query “Queen Elizabeth death lang:en until:2022-9-10 since:2022-09-08”, changing the dates as corresponding with our selected time periods. 
+
+![image](https://user-images.githubusercontent.com/115983335/209151929-9e155c57-6a6b-4d13-8f5f-0ec231235ab5.png)
+
+***2.	Dataset uploading to CorText and parsing***
+***3.	Use of the Terms Extractor function*** to create a list of the 100 most frequent terms from the ‘text’ of the tweets from each dataset. This produced four separate ‘keyword’ lists. 
+***4.	Use of List Builder function*** to create lists of the 100 most frequent terms for each dataset (from the previous step) and allowed for the cleaning of the lists to remove instances of repetition and uninformative terms. 
+***5.	The Corpus Terms Indexer function*** was then used to index each dataset with its corresponding terms list. 
+***6.	The Topic Modelling function*** was then used to create a topic model from the ‘text’ of the tweets of each dataset. The function was limited to assigning one topic per tweet to avoid over-complicating the interpretation as the text in the tweets is very short.
+***7.	Finally, we used the Network Mapping function*** to create heterogeneous networks maps for each dataset using the indexed 100 most frequent terms lists as the nodes. 
+
 
 ## results - comparing over time
 ### week 1
